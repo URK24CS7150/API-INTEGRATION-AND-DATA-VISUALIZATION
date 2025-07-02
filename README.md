@@ -12,9 +12,9 @@
 
 *MENTOR*:NEELA SANTOSH
 
-## Overview of the Project
+Overview of the Project
 
-### Task 1: API Integration and Data Visualization
+ Task 1: API Integration and Data Visualization
 
 
 OUTPUT:
