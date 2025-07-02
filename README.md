@@ -8,3 +8,4 @@
 
 Overview of the Project:
 Task 1: API Integration and Data Visualization
+![Image](https://github.com/user-attachments/assets/28c0f9fe-dc7b-481a-aa22-cbc42eeb2172)
