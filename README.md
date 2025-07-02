@@ -12,9 +12,10 @@
 
 *MENTOR*:NEELA SANTOSH
 
-Overview of the Project:
+## Overview of the Project
 
-Task 1: API Integration and Data Visualization
+### Task 1: API Integration and Data Visualization
+
 
 OUTPUT:
 ![Image](https://github.com/user-attachments/assets/28c0f9fe-dc7b-481a-aa22-cbc42eeb2172)
@@ -94,6 +95,6 @@ To demonstrate how to integrate a public API, process the fetched data, and crea
 ## Contact
 For any questions or feedback, feel free to reach out to:  
 
-**Tejas Padaki**  
+**G.LAKSHMI NARAYANA REDDY**  
 **Company:** CODTECH IT SOLUTIONS  
-**Email:** tejaspadaki33@gmail.com  
+**Email:** gumreddylakshminarayana@karunya.edu.in  
