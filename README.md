@@ -18,6 +18,7 @@ To demonstrate how to integrate a public API, process the fetched data, and crea
 Key Activities:
 1.Setting up a Python environment for API integration and data visualization.
 2.Fetching 5-day weather forecast data using the OpenWeatherMap API.
+
 3.Parsing and extracting temperature and humidity data from the API response.
 4.Visualizing trends in temperature and humidity over time using Matplotlib and Seaborn.
 Technologies Used:
